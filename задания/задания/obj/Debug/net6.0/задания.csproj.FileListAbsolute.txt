@@ -1,0 +1,5 @@
+/Users/user/Projects/задания/задания/obj/Debug/net6.0/задания.csproj.AssemblyReference.cache
+/Users/user/Projects/задания/задания/obj/Debug/net6.0/задания.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Projects/задания/задания/obj/Debug/net6.0/задания.AssemblyInfoInputs.cache
+/Users/user/Projects/задания/задания/obj/Debug/net6.0/задания.AssemblyInfo.cs
+/Users/user/Projects/задания/задания/obj/Debug/net6.0/задания.csproj.CoreCompileInputs.cache
